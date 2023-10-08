@@ -13,4 +13,4 @@ Further utilizing a nested CTE, I crafted a sample dataset with enriched informa
 The resulting sample comprised essential fields: ad_month, utm_campaign, total cost, impressions, clicks, conversion value, CTR, CPC, CPM, and ROMI. To enhance analysis, I introduced a 'difference in CTR, CPC, CPM, and ROMI' field for each utm_campaign in every month, comparing values to the previous month in terms of percentage change.
 
 #### Skills:
-SQL, PostgreSQL, DBeaver
+Data Analysis · SQL · PostgreSQL · DBeaver
